@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 🎓 Gestão de Cooperativas<br>📚 Análise e Dev. de Sistemas<br>💻 Pós em Engenharia de Software<br>👨🏻‍💻 @cvale_cooperativa<br>📍 Palotina/PR
 
 
